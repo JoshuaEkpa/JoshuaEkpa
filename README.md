@@ -1,6 +1,6 @@
 # Welcome To My GitHub!
 
-👋 Hi, I’m Joshua Ekpa
+👋 Hi, I’m Joshua Ekpa,
 Welcome to my GitHub profile! 
 I’m a Data Analyst with a strong focus on 
 Excel, Power BI, SQL and business intelligence, 
