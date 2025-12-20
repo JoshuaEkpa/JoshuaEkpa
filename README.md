@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 This GitHub repository contains:
 
-📊 Data Analytics Projects using Excel & Power BI
+📊 Data Analytics Projects using Excel, SQL & Power BI 
 
 📈 Business dashboards (Sales, Healthcare, HR, Retail, etc.)
 
@@ -66,15 +66,15 @@ ________________________________________________________________________________
 
 🎯 Career Focus
 
-1. I’m focused on:
+I’m focused on:
 
-2. Data Analyst roles
+1. Data Analyst roles
 
-3. Business Intelligence roles
+2. Business Intelligence roles
 
-4. Entry to mid-level analytics positions
+3. Entry to mid-level analytics positions
 
-5. Opportunities that value analytical thinking and storytelling with data
+4. Opportunities that value analytical thinking and storytelling with data
 
 ________________________________________________________________________________________________________________________________________ 
 
