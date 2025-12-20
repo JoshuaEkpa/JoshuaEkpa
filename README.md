@@ -52,7 +52,7 @@ This GitHub repository contains:
 
 🧠 Projects designed to reflect real-world business problems
 
-# Each project includes:
+# Each Project Includes:
 
 1. Clear objectives
 
