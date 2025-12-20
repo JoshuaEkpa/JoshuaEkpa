@@ -29,12 +29,14 @@ ________________________________________________________________________________
 
 🛠️ Tools & Technologies
 
-1.  Microsoft Excel (Advanced formulas, PivotTables, Power Query)
+1. Microsoft Excel (Advanced formulas, PivotTables, Power Query)
 2. Power BI (DAX, data modeling, interactive dashboards)
-3. Data Analysis… 
-4. Data Analysis & Visualization 
-5. Exploratory Data Analysis (EDA) 
-6. Reporting & Business Insight 
+3. MySQL Workbench 8.0 CE
+4. Python 
+5. Data Analysis… 
+6. Data Analysis & Visualization 
+7. Exploratory Data Analysis (EDA) 
+8. Reporting & Business Insight 
 
 ___________________________________________________________________________________________________________________________ 
 
