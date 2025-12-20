@@ -10,7 +10,9 @@ meaningful insights that support data-driven decision-making.
 
 _________________________________________________________________________________________________________________________________ 
 
-🚀 About Me
+🚀 About Me 
+Role: Data Analyst 
+Skill: Excel | SQL | Power BI | Python | Data Visualization | 
 
 📊 Skilled in data cleaning, analysis, and visualization
 
@@ -22,17 +24,17 @@ ________________________________________________________________________________
 
 📚 Continuous learner, always improving my analytical and technical skills
 
-
+🚀Goal: Grow my skills and help others understand and use data better 
 ______________________________________________________________________________________________________________________________________ 
 
 🛠️ Tools & Technologies
 
-. Microsoft Excel (Advanced formulas, PivotTables, Power Query)
-. Power BI (DAX, data modeling, interactive dashboards)
-. Data Analysis… 
-. Data Analysis & Visualization 
-. Exploratory Data Analysis (EDA) 
-. Reporting & Business Insight 
+1.  Microsoft Excel (Advanced formulas, PivotTables, Power Query)
+2. Power BI (DAX, data modeling, interactive dashboards)
+3. Data Analysis… 
+4. Data Analysis & Visualization 
+5. Exploratory Data Analysis (EDA) 
+6. Reporting & Business Insight 
 
 ___________________________________________________________________________________________________________________________ 
 
@@ -62,15 +64,15 @@ ________________________________________________________________________________
 
 🎯 Career Focus
 
-. I’m focused on:
+1. I’m focused on:
 
-. Data Analyst roles
+2. Data Analyst roles
 
-. Business Intelligence roles
+3. Business Intelligence roles
 
-. Entry to mid-level analytics positions
+4. Entry to mid-level analytics positions
 
-Opportunities that value analytical thinking and storytelling with data
+5. Opportunities that value analytical thinking and storytelling with data
 
 ________________________________________________________________________________________________________________________________________ 
 
