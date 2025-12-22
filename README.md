@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 1. Microsoft Excel (Advanced formulas, PivotTables, Power Query)
 2. Power BI (DAX, data modeling, interactive dashboards)
-3. MySQL Workbench 8.0 CE
+3. MySQL Workbench 
 4. Python 
 5. Data Analysis… 
 6. Data Analysis & Visualization 
