@@ -14,8 +14,10 @@ ________________________________________________________________________________
 
 🚀 About Me  
 
-Role: Data Analyst 
-Skill: Excel | SQL | Power BI | Python | Data Visualization | 
+📚 Role: Data Analyst
+
+🚀 Goal: Grow my skills and help others understand and use data better 
+🛠️ Skill: Excel | SQL | Power BI | Python | Data Visualization | 
 
 📊 Skilled in data cleaning, analysis, and visualization
 
