@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 🌍 Actively building a portfolio aligned with international data analyst roles
 
-📚 Continuous learner, always improving my analytical and technical skills
+📚 Continuous learner, always improving my analytical and technical skills.
  
 ______________________________________________________________________________________________________________________________________ 
 
