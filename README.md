@@ -15,7 +15,6 @@ ________________________________________________________________________________
 🚀 About Me  
 
 📚 Role: Data Analyst
-
 🚀 Goal: Grow my skills and help others understand and use data better 
 🛠️ Skill: Excel | SQL | Power BI | Python | Data Visualization | 
 
@@ -28,8 +27,7 @@ ________________________________________________________________________________
 🌍 Actively building a portfolio aligned with international data analyst roles
 
 📚 Continuous learner, always improving my analytical and technical skills
-
-🚀Goal: Grow my skills and help others understand and use data better 
+ 
 ______________________________________________________________________________________________________________________________________ 
 
 🛠️ Tools & Technologies
