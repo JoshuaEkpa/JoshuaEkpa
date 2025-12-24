@@ -1,6 +1,6 @@
 # Welcome To My GitHub!
 
-👋 Hi, I’m Joshua Ekpa, 
+👋 Hi, I’m Joshua Ekpah, 
 
 Welcome to my GitHub profile! 
 
